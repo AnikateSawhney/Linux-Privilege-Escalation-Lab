@@ -29,5 +29,4 @@ While importing the VM, select ALL network adapter MAC interfaces in MAC Address
 You need to then start the VM and login using the credentials (can be found in creds.txt) and run ifconfig command to get the IP. 
 SSH into the Ubuntu VM (ssh user@IP).    
 Ready? GO NUTS! 🎉
-  
   The lab is now all set up. Tinker, test, and let your curiosity run wild! This is a safe environment to learn and test —don’t hold back. 💡🔥
