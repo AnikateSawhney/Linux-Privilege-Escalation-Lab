@@ -22,5 +22,9 @@ This is a Linux Privilege Escalation Lab created by me which includes topics lik
 One OVA (An Ubuntu VM)
 ## Installation
 Simply download the OVAs and double-click them.  
-Link: 
+Link: https://drive.google.com/file/d/13WUQtQhep3PoWq66-N5EU4kig45uWKH2/view?usp=drive_link
 
+## Working 
+While importing the VM, select ALL network adapter MAC interfaces in MAC Address Policy. Just check if the VM and your attacker machine are in the same network (Network < Network Adapter [see if both are in bridge or not (I prefer bridge btw).
+You need to then start the VM and login using the credentials (can be found in creds.txt) and run ifconfig command to get the IP. 
+SSH into the Ubuntu VM (ssh user@IP).
