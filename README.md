@@ -17,7 +17,7 @@ This is a Linux Privilege Escalation Lab created by me which includes topics lik
 14. Shared Library.
 15. Environment Variable LD_PRELOAD.
 
-### You can Watch the solution to all of these attacks here:- https://www.youtube.com/watch?v=mSDY5NZ7keU&list=PLw5BjpTl2awWIwck_gkeWs5d0BD4pJXkX
+### You can watch the solution to all of these attacks here:- https://www.youtube.com/watch?v=mSDY5NZ7keU&list=PLw5BjpTl2awWIwck_gkeWs5d0BD4pJXkX
 ## Lab Info
 One OVA (An Ubuntu VM)
 ## Installation
