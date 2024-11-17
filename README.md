@@ -28,4 +28,5 @@ Link: https://drive.google.com/drive/folders/14InObkvtGbKK5UzCAoaMOrRZWpN2SKg8?u
 While importing the VM, select ALL network adapter MAC interfaces in MAC Address Policy. Just check if the VM and your attacker machine are in the same network (Network < Network Adapter [see if both are in bridge or not (I prefer bridge btw).
 You need to then start the VM and login using the credentials (can be found in creds.txt) and run ifconfig command to get the IP. 
 SSH into the Ubuntu VM (ssh user@IP).  
-Go nuts
+Ready? GO NUTS! 🎉
+The lab is now all set up. Tinker, test, and let your curiosity run wild! This is a safe environment to learn and test —don’t hold back. 💡🔥
