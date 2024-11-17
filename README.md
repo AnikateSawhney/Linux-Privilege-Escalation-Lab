@@ -21,6 +21,6 @@ This is a Linux Privilege Escalation Lab created by me which includes topics lik
 ## Lab Info
 One OVA (An Ubuntu VM)
 ## Installation
-Simply download the OVAs and double-click them. 
+Simply download the OVAs and double-click them.  
 Link: 
 
